@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309128299867",
+    "project_id": "language-translator-app-8bd8c",
+    "storage_bucket": "language-translator-app-8bd8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309128299867:android:859375aa9ef955195cc67e",
+        "android_client_info": {
+          "package_name": "com.sumon.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309128299867-ppa8v812s802tf9ijms8cta08bi83rh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7WvIfTHixZ3nahyP2fgVl0_o8uOWli0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309128299867-ppa8v812s802tf9ijms8cta08bi83rh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
