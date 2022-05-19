@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Language Translator"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:textStyle="bold"
         android:textColor="@color/yellow"
         android:layout_marginTop="20dp"
